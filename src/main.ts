@@ -1,4 +1,5 @@
 import './style.css'
+import './solid/05-dependency-a.ts'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
